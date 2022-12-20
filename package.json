@@ -28,7 +28,7 @@
     "date-fns-tz": "^1.1.6",
     "detect-incognito": "^1.0.0",
     "echarts": "^5.2.2",
-    "file-type": "^16.5.3",
+    "file-type": "^16.5.4",
     "formik": "^2.2.9",
     "fuzzy-search": "^3.2.1",
     "graphql": "^15.6.1",
